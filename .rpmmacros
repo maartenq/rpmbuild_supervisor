@@ -1,4 +1,4 @@
-%_topdir %(echo $HOME)/Dev/RPMbuilds/rpmbuild_supervisor/rpmbuild
+%_topdir %(echo $HOME)/rpmbuild_supervisor/rpmbuild
 
 %__arch_install_post \
     [ "%{buildarch}" = "noarch" ] || QA_CHECK_RPATHS=1 ; \
