@@ -58,4 +58,4 @@ Installing
 
 #. Install Supervisor-3.3.1 with yum::
 
-    $ yum localinstall /tmp/supervisor-3.3.1-1.noarch.rpm
+    $ yum install /tmp/supervisor-3.3.1-1.noarch.rpm
