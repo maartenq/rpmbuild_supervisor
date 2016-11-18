@@ -43,8 +43,8 @@ Building
 
 #. Copy RPM/SRPM packages::
 
-    $ cp rpmbuild_supervisor/rpmbuild/RPMS/noarch/supervisor-3.3.1-1.noarch.rpm /tmp/
-    $ cp rpmbuild_supervisor/rpmbuild/SRPMS/supervisor-3.3.1-1.src.rpm /tmp/
+    $ cp ~/rpmbuild_supervisor/rpmbuild/RPMS/noarch/supervisor-3.3.1-1.noarch.rpm /tmp/
+    $ cp ~/rpmbuild_supervisor/rpmbuild/SRPMS/supervisor-3.3.1-1.src.rpm /tmp/
 
 
 #. Clean up rpmbuilder account::
